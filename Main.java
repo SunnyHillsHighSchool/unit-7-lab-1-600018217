@@ -3,7 +3,12 @@
 //Name -
 //Date -
 
-import java.util.Arrays;
+import java.util.ArrayList;
+import java.util.List;
+import static java.lang.System.*;
+import java.util.Collections;
+import java.util.*;    //had to import Arrays
+
 
 public class Main
 {
